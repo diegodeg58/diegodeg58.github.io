@@ -14,3 +14,11 @@ h2{
 p{
     font-weight: 300;
 }
+
+#portafolio .fas{
+    font-size: 8rem;
+}
+
+.bi{
+    fill: currentColor;
+}
